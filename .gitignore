@@ -1,0 +1,10 @@
+/data/
+/bash/
+/results/
+/notebooks/
+/plots/
+*/__pycache__/
+*/.idea/
+*/.ipynb_checkpoints/
+*.DS_Store
+*.ipynb
