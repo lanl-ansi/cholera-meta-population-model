@@ -1,4 +1,4 @@
-## cholera-meta-population-model
+## Cholera meta-population model
 
 Analysing cholera epidemics in Argentina in the 90s using case count and genetic sequence data.
 The code implements fitting procedure for a meta-population susceptible-infected-asymptomatic-recovered (SIAR) model.
