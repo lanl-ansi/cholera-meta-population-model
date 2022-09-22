@@ -3,6 +3,7 @@
 Analysing cholera epidemics in Argentina in the 90s using case count and genetic sequence data.
 The code implements fitting procedure for a meta-population susceptible-infected-asymptomatic-recovered (SIAR) model.
 More details about the model and used data can be found in the paper cited below.
+The case count data used in our study is available in the /data/ folder, together with our estimation of the migration patterns between Tartagal, San Ramon de la Nueva Oran and San Salvador de Jujuy.
 Algorithm allows to:
 - Fit the data from three argentinian cities, which were hit by cholera in the 90s.
     - fit_data.py
