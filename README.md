@@ -19,11 +19,16 @@ Algorithm allows to:
 ## Reference
 
 The code was developed while working on the following article:
-https://arxiv.org/abs/...
+https://arxiv.org/pdf/2210.01956.pdf
 
 If you found the repository useful in your work, we kindly ask that you cite:
 ```
-...
+@article{wilinski2022congruity,
+  title={Congruity of genomic and epidemiological data in modeling of local cholera outbreaks},
+  author={Wilinski, Mateusz and Castro, Lauren and Keithley, Jeffrey and Manore, Carrie and Campos, Josefina and Romero-Severson, Ethan and Domman, Daryl and Lokhov, Andrey Y},
+  journal={arXiv preprint arXiv:2210.01956},
+  year={2022}
+}
 ```
 
 ## License
